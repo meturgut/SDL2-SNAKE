@@ -2,5 +2,5 @@
 
 
 
-# Dependecies
+# Dependencies
 libsdl2 libsdl2-image
