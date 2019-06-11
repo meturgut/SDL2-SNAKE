@@ -1,0 +1,3 @@
+/home/mturgut/Documents/SDLprojects/snake/build/CMakeFiles/rebuild_cache.dir
+/home/mturgut/Documents/SDLprojects/snake/build/CMakeFiles/snake.dir
+/home/mturgut/Documents/SDLprojects/snake/build/CMakeFiles/edit_cache.dir

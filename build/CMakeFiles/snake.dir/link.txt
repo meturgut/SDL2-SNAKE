@@ -1,0 +1,1 @@
+/usr/bin/g++-7     CMakeFiles/snake.dir/src/Box.cpp.o CMakeFiles/snake.dir/src/Snake.cpp.o CMakeFiles/snake.dir/src/Game.cpp.o CMakeFiles/snake.dir/src/main.cpp.o  -o ../bin/snake -lSDL2 -lSDL2_image -lSDL2_ttf 
